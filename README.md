@@ -1,9 +1,9 @@
 # protein-monster-visualizer
 graphviz generated graph of protein monster's subdirectories, scraped with BeautifulSoup 4
 
-![preview](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/protein%20monster%20graph.png)
+![preview](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/preview.png)
 
-see the full graph [here (pdf)](https://drive.google.com/file/d/1buw7uQCx-4pFOGdDNGFEsqYHEwfI9aw6/view?usp=sharing) and [here (png)](https://drive.google.com/file/d/1hepTyNb4A6gUeDP94xFAhWBBwIRAgQPd/view?usp=sharing).
+see the full graph [here (pdf)](https://drive.google.com/file/d/1buw7uQCx-4pFOGdDNGFEsqYHEwfI9aw6/view?usp=sharing) and [here (png)](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/protein%20monster%20graph.png).
 
 ## What is protein monster?
 No one knows. some claim for it to be an ARG (alternate reality game), but then there would have to be a story. Some claim for it to be a fun side project, but what side project has over 200 subdirectories, with complex unity games, Three.js, and more? 
@@ -19,9 +19,11 @@ total edges: 846
 
 ## Why is protein monster?
 I tried, asking, this is what they said:
+
 ![twitter reasoning](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/reason.png)
 
 However, they did send me some stickers!
+
 ![stickers](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/stickers.png)
 
 ## Next Steps
