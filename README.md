@@ -1,4 +1,31 @@
 # protein-monster-visualizer
-graphviz generated graph of protein monster's website, scraped with BeautifulSoup 4
+graphviz generated graph of protein monster's subdirectories, scraped with BeautifulSoup 4
 
-## ReadMe coming soon!
+![preview](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/protein%20monster%20graph.png)
+
+see the full graph [here (pdf)](https://drive.google.com/file/d/1buw7uQCx-4pFOGdDNGFEsqYHEwfI9aw6/view?usp=sharing) and [here (png)](https://drive.google.com/file/d/1hepTyNb4A6gUeDP94xFAhWBBwIRAgQPd/view?usp=sharing).
+
+## What is protein monster?
+No one knows. some claim for it to be an ARG (alternate reality game), but then there would have to be a story. Some claim for it to be a fun side project, but what side project has over 200 subdirectories, with complex unity games, Three.js, and more? 
+
+For what it's worth, it's a deeply interconnected webpage with subdirectories connecting to other subdirectories, and even has it's own [subdirectories in subdirectories](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/subdirectories.png). I wanted to see how connected these nodes are, and even see how deep the protein monster rabbithole goes!
+
+### Findings
+total pages: 229
+total edges: 846
+
+*note these numbers do not include pages/edges connected to unity applications*
+
+## Why is protein monster?
+I tried, asking, this is what they said:
+![twitter reasoning](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/reasoning.png)
+
+However, they did send me some stickers!
+![stickers](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/stickers.png)
+
+## Next Steps
+- Link Unity applications to the graph
+- Add extra findings (number of unity pages, ThreeJS applications, videos)
+- Create Markov chain depicting probabilities and randomness of entering a page
+- Clean up some empty nodes
+- Manually add Christmas node
