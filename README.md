@@ -12,13 +12,14 @@ For what it's worth, it's a deeply interconnected webpage with subdirectories co
 
 ### Findings
 total pages: 229
+
 total edges: 846
 
 *note these numbers do not include pages/edges connected to unity applications*
 
 ## Why is protein monster?
 I tried, asking, this is what they said:
-![twitter reasoning](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/reasoning.png)
+![twitter reasoning](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/reason.png)
 
 However, they did send me some stickers!
 ![stickers](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/stickers.png)
