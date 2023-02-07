@@ -14,20 +14,18 @@ def create_graph(g, start):
 
     while queue:
         current_vertex = queue.pop(0)
-        print(current_vertex)
         if len(current_vertex) > 1:
             if current_vertex not in visited and current_vertex[0] == '/':
                 visited.add(current_vertex)
                 g.node(current_vertex)
                 url = "https://protein.monster" + current_vertex
                 
-                # Get all a tags
+                # Get all href tags
                 response = requests.get(url)
                 soup = BeautifulSoup(response.content, 'html.parser')
                 links = soup.find_all('a', href=True)
-                # print(links)
+                
                 for link in links:
-                    # print(link['href'])
                     neighbour_vertex = link['href'].replace('\'',"")
                     if '#' not in neighbour_vertex and 'mailto' not in neighbour_vertex and len(neighbour_vertex) > 1:
                         g.edge(current_vertex, neighbour_vertex.replace('\'',""))
