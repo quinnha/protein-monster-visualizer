@@ -10,6 +10,8 @@ No one knows. some claim for it to be an ARG (alternate reality game), but then 
 
 For what it's worth, it's a deeply interconnected webpage with subdirectories connecting to other subdirectories, and even has it's own [subdirectories in subdirectories](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/subdirectories.png). I wanted to see how connected these nodes are, and even see how deep the protein monster rabbithole goes!
 
+[visit protein monster (potential NSFW)](https://protein.monster/)
+
 ## Findings
 total pages: 229
 
