@@ -24,7 +24,9 @@ I tried, asking, this is what they said:
 
 However, they did send me some stickers!
 
-![stickers](https://github.com/quinnha/protein-monster-visualizer/blob/main/media/stickers.png)
+<a href="url"><img src="https://github.com/quinnha/protein-monster-visualizer/blob/main/media/stickers.png" align = "center" height="400" width="400" ></a>
+
+
 
 ## Next Steps
 - Link Unity applications to the graph
